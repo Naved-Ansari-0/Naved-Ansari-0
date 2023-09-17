@@ -1,7 +1,8 @@
 ## 👋 I am Naved Ansari
 ### Native android, Cross-platform app developer
-- 🎓 I’m currently pursuing B.Tech in CSE from KNIT, Sultanpur.
-- 👨‍💻 Published some apps on google play store.
+- 🎓 Currently pursuing B.Tech in CSE from KNIT, Sultanpur.
+- 👨‍💻 View published apps on google play store [![Google Play Store](https://www.gstatic.com/android/market_images/web/favicon_v2.ico)](https://play.google.com/store/apps/developer?id=Naved+Ansari)
+- 💻 Check out my portfolio at [navedansari.in](https://navedansari.in/)
 
 ---
 ###  Languages and Tools :
@@ -36,10 +37,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
----
-
-### :fire: My Stats (includes private repos):
-
-![](https://raw.githubusercontent.com/Naved-Ansari-0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Naved-Ansari-0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
