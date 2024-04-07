@@ -27,10 +27,10 @@
 ### 🤝 Connect with me :
 
 <div id="badges">
-  <a href="https://twitter.com/no_ved">
+  <a href="https://twitter.com/naved_105">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.instagram.com/naved_531">
+    <a href="https://www.instagram.com/naved_105">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/navedansari0/">
