@@ -1,5 +1,5 @@
 ## 👋 I am Naved Ansari
-### Native android, Cross-platform app developer
+### Android app developer
 - 🎓 Currently pursuing B.Tech in CSE from KNIT, Sultanpur.
 - 👨‍💻 View published apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Naved+Ansari)
 - 💻 Check out my portfolio at [navedansari.in](https://navedansari.in/)
