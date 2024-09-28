@@ -1,6 +1,6 @@
 ## 👋 I am Naved Ansari
 ### Android app developer
-- 🎓 Currently pursuing B.Tech in CSE from KNIT, Sultanpur.
+- 🎓 KNIT CSE'24
 - 👨‍💻 View published apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Naved+Ansari)
 - 💻 Check out my portfolio at [navedansari.in](https://navedansari.in/)
 
