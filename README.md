@@ -1,7 +1,7 @@
 ## 👋 I am Naved Ansari
 ### Android app developer
 - 👨‍💻 View published apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Naved+Ansari)
-- 💻 Check out my portfolio at [navedansari.in](https://navedansari.in/)
+- 💻 Check out my portfolio at [Portfolio]([https://naved.app/](https://in-naved-ansari.web.app/))
 
 ---
 ###  Languages and Tools :
